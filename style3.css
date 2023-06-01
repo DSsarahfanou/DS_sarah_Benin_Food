@@ -1,0 +1,29 @@
+body
+{
+    background:url('fond.jpg');
+}
+div
+{
+    display:flex;
+    justify-content: space-between;
+
+}
+button
+{
+    width: 300px;
+    size: 70px;
+    font-family: 'Verdana';
+}
+strong
+{
+    text-decoration: underline rgb(238, 130, 238);
+}
+.eneam{
+    text-align: left;
+    max-width: 200px;
+    max-height: 200px;
+}
+center{
+    text-transform: uppercase;
+    
+}
